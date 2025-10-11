@@ -28,7 +28,7 @@ NITK students who will leave the campus in a month or a week. It’s not possibl
   
 It's not easy for them to search for a suitable person who wants to buy or sell  those things unless they know it through some media. Also It is not possible for the student to ask every other student if they are willing to buy or sell the things. Also, the students who leave the college in a couple of days want to find the buyers at the earliest possible.
 
-## 6. proposed solution
+## 6. Proposed solution
 To address this problem, our team came up with the best solution for the intra-college students. A portal is built for the students, where they can request and post things which they would like to buy and sell respectively. Once we find any buyer-seller pair, they can contact each other and get the things transferred. 
 
 In detail, the student who wants to buy, can request the items from the specific list of things the portal provides. Similarly, the student can post the items one would like to sell. The student has to wait until he finds the person to buy or sell. If there are no other buyers for the item, the student can give those items to the Co-operative Society at a fixed price. Rest is handled by the Co-Operative Society. And if the buyer didn’t satisfy with the item or didn’t find the item for a long time and buy that new item, the buyer can withdraw his request anytime. Like wise the seller can also give it to Co-Operative society at any time.
